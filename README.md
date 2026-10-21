@@ -10,9 +10,14 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
