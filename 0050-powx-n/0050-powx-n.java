@@ -11,6 +11,7 @@ class Solution {
         while (power > 0) {
             if (power % 2 == 1) {
                 result = result * x;
+                power --;
             }
 
             x = x * x;
