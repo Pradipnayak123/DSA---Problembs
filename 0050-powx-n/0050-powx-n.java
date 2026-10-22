@@ -5,7 +5,7 @@ class Solution {
         double result = 1.0;
 
         if (power < 0) {
-            power = -power;
+            power = power*(-1);
         }
 
         while (power > 0) {
@@ -13,13 +13,14 @@ class Solution {
                 result = result * x;
                 power --;
             }
-
-            x = x * x;
-            power = power / 2;
+            else{
+                x = x * x;
+                power = power / 2;
+            }
         }
 
         if (n < 0) {
-            result = 1.0 / result;
+            result =(double) 1.0 / (double)result;
         }
 
         return result;
