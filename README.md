@@ -13,6 +13,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
