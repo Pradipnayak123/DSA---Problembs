@@ -26,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
