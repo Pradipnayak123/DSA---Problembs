@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
