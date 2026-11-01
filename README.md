@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0118-pascals-triangle) |
@@ -84,6 +86,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
