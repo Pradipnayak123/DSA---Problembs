@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0054-spiral-matrix) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0283-move-zeroes) |
@@ -60,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 ## String
