@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0485-max-consecutive-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
