@@ -10,6 +10,7 @@
 | [0050-powx-n](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [0075-sort-colors](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,6 +65,7 @@
 | [0001-two-sum](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
