@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/2643-row-with-maximum-ones) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
