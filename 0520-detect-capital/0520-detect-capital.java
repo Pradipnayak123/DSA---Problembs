@@ -6,8 +6,8 @@ class Solution {
                 uppercase++;
             }
         }
-        return uppercase == word.length()
-        || uppercase == 0
-        || (uppercase == 1 && Character.isUpperCase(word.charAt(0)));
+        return uppercase == word.length() // All word are UpperCase
+        || uppercase == 0 // all are in lowercase
+        || (uppercase == 1 && Character.isUpperCase(word.charAt(0))); // First Latter is Capital
     }
 }
