@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
