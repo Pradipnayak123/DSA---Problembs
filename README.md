@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
