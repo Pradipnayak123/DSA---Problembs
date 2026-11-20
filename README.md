@@ -13,6 +13,7 @@
 | [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 | [0775-global-and-local-inversions](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0775-global-and-local-inversions) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
