@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 | [0775-global-and-local-inversions](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0775-global-and-local-inversions) |
 | [1688-count-of-matches-in-tournament](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/1688-count-of-matches-in-tournament) |
@@ -65,11 +66,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Pradipnayak123/DSA---Problembs/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
